@@ -1,0 +1,16 @@
+# The mood Checker
+
+mood = "Happy"
+
+if mood == "Happy":
+    print("It is good to see you happy!")
+elif mood == "Nervous":
+    print("Take a deep breath 3 times.")
+elif mood =="Sad":
+    print("Get some fresh air")
+elif mood =="Excited":
+    print("Alright!")
+elif mood =="Relaxed":
+    print("Smooth")
+else:
+    print("I don't recognize this mood")
